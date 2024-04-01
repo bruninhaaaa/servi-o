@@ -1,0 +1,25 @@
+.t1{
+    color: brown;
+    font-family: Georgia;
+    font-size:xx-large;
+}
+
+.p1{
+    color: firebrick;
+    font-family: Cambria;
+}
+
+.p2{
+    color: firebrick;
+    font-family: Cambria;
+}
+
+.p3{
+   font-size: xx-small;
+    font-family: Cambria;
+}
+
+a{
+    color:azure;
+    background-color: rosybrown;
+}
